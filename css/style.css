@@ -1,11 +1,65 @@
- detalle_pokemon
+ Index
 *{
+    margin: 0;
+}
+
+.carouselExampleIndicators{
+    margin: 0;
+}
+
+.container-fluid{
+    margin: 0px;
+    padding: 15px;
+    background-color: red;
+    color: aliceblue;
+}
+
+/*nav*/
+
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}
+.navbarSupportedContent{
+    color: aliceblue;
+}
+
+.btn-outline-success{
+    color: aliceblue;
+}
+
+
+/*banner*/
+
+.carouselExampleIndicators {
+    background-size: cover;
+    height: 350px;
+    
+}
+
+
+/*footer*/
+
+.grupo-2{
+    background-color: #2c3135;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff;
+}
+.grupo-2 small{
+    font-size: 15px;
+  
+ detalle_pokemon
+{*
     margin: 0px;
     padding: 0px;
-
+}
 .imgCircular {
     border-radius: 50%;
     border: 2px solid #023047;
     width: 50%;
- dev
+
+dev
 }
