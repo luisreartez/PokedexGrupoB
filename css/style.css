@@ -1,4 +1,11 @@
+ detalle_pokemon
 *{
     margin: 0px;
     padding: 0px;
+
+.imgCircular {
+    border-radius: 50%;
+    border: 2px solid #023047;
+    width: 50%;
+ dev
 }
